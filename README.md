@@ -51,7 +51,7 @@
   * Filters malicious traffic, including XSS and SQL injection via customer-defined rules
 
 ### Architecture
-![Architecture](image4.png)
+![Architecture](Architecture.png)
 
 ### AWS CloudTrail For Monitoring and Auditing
 * CloudTrail enables continuous monitoring and post-incident forensic investigations of AWS by providing an audit trail of all activities across an AWS infrastructure. All CloudTrail logs files get stored in a dedicated S3 bucket.
